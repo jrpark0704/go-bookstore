@@ -3,6 +3,7 @@ package routes
 import (
 	"github/com/gorilla/mux"
 
+	"./controllers"
 	"github.com/jrpark0704/go-bookstore/pkg/controllers" // "./controllers" same
 )
 
